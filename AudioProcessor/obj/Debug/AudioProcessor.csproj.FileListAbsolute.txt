@@ -1,0 +1,6 @@
+C:\Users\Julia\Desktop\ITA-master\AudioProcessor\bin\Debug\AudioProcessor.dll
+C:\Users\Julia\Desktop\ITA-master\AudioProcessor\bin\Debug\AudioProcessor.pdb
+C:\Users\Julia\Desktop\ITA-master\AudioProcessor\obj\Debug\AudioProcessor.csprojAssemblyReference.cache
+C:\Users\Julia\Desktop\ITA-master\AudioProcessor\obj\Debug\AudioProcessor.csproj.CoreCompileInputs.cache
+C:\Users\Julia\Desktop\ITA-master\AudioProcessor\obj\Debug\AudioProcessor.dll
+C:\Users\Julia\Desktop\ITA-master\AudioProcessor\obj\Debug\AudioProcessor.pdb

@@ -1,0 +1,10 @@
+C:\Users\Julia\Desktop\ITA-master\AudioProcessorTest\bin\Debug\AudioProcessorTest.dll
+C:\Users\Julia\Desktop\ITA-master\AudioProcessorTest\bin\Debug\AudioProcessorTest.pdb
+C:\Users\Julia\Desktop\ITA-master\AudioProcessorTest\bin\Debug\AudioProcessor.dll
+C:\Users\Julia\Desktop\ITA-master\AudioProcessorTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Julia\Desktop\ITA-master\AudioProcessorTest\bin\Debug\AudioProcessor.pdb
+C:\Users\Julia\Desktop\ITA-master\AudioProcessorTest\obj\Debug\AudioProcessorTest.csprojAssemblyReference.cache
+C:\Users\Julia\Desktop\ITA-master\AudioProcessorTest\obj\Debug\AudioProcessorTest.csproj.CoreCompileInputs.cache
+C:\Users\Julia\Desktop\ITA-master\AudioProcessorTest\obj\Debug\AudioProcessorTest.csproj.CopyComplete
+C:\Users\Julia\Desktop\ITA-master\AudioProcessorTest\obj\Debug\AudioProcessorTest.dll
+C:\Users\Julia\Desktop\ITA-master\AudioProcessorTest\obj\Debug\AudioProcessorTest.pdb
